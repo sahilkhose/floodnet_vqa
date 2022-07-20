@@ -2,6 +2,9 @@
   
 # An Efficient Modern Baseline for FloodNet VQA
  [Aditya Kane](https://github.com/AdityaKane2001) and [Sahil Khose](https://github.com/sahilkhose)
+ 
+ 
+ <b>[An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025)</b>
 </div>
 
 --------------------------------------------------------------------------------------------
